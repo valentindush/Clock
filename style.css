@@ -162,7 +162,7 @@ body{
     margin: 0 .15em;
 }
 .digital span:nth-child(4){
-    animation: blink .5s linear infinite
+    animation: blink 1s linear infinite
 }
 .digital span:last-child{
     font-size: 1.4em;
